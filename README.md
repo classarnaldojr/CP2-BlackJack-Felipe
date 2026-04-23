@@ -12,9 +12,10 @@ Jogo de Blackjack em Python controlado por gestos via webcam, usando OpenCV e Me
 ## Instalação
 
 ```bash
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-python main.py
+python -m venv .venv                                                                                                              
+  .\.venv\Scripts\Activate.ps1                              
+  pip install -r requirements.txt
+  python main.py
 ```
 
 ## Gestos
