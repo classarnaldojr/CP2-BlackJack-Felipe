@@ -2,6 +2,12 @@
 
 Jogo de Blackjack em Python controlado por gestos via webcam, usando OpenCV e MediaPipe.
 
+
+## Integrantes
+- Felipe Cardoso RM 99062
+- Carlos Augusto RM 98456
+- Pablo Rangel RM 551548
+
 ## Tecnologias
 
 - Python 3.10+
